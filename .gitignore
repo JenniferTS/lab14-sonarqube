@@ -1,0 +1,7 @@
+.m2/repository/
+**/target/
+sonar/
+*.log
+.idea/
+*.iml
+capturas/
